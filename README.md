@@ -40,7 +40,7 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-### Hi, learn more about me. Developer!
+### Learn more about me! Hire this Developer?
 
   https://www.linkedin.com/in/alexgomesnet/
 
