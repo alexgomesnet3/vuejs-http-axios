@@ -1,4 +1,4 @@
-## HTTP with VueJS, Axios and Firebase - Udemy COD3R - More Concepts of the Vue.js HTTP Verbs:
+### HTTP with VueJS, Axios and Firebase - Udemy COD3R - More Concepts of the Vue.js HTTP Verbs:
 
 <h2 align="center"> 
   Simple Project HTTP with VueJS - Udemy Courses 
@@ -40,7 +40,7 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-### Learn more about me! Hire this Developer?
+### Know more about me!
 
   https://www.linkedin.com/in/alexgomesnet/
 
