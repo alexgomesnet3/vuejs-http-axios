@@ -1,7 +1,7 @@
 ### HTTP with VueJS, Axios and Firebase - Udemy COD3R - More Concepts of the Vue.js HTTP Verbs:
 
 <h2 align="center"> 
-  Simple Project HTTP with VueJS - Udemy Courses 
+  Simple Project HTTP with VueJS - Udemy
 </h2>
 
 <p align="center">
